@@ -22,14 +22,18 @@
 #Requirements
 
 -> Bootstrap is used so internet is neccsary as the required files are not pre installed
+
 -> Xampp(Lampp in Linux Mint / Ubuntu) is needed 
+
 -> Used scripts or languages are PHP, HTML and Mysql
   
 
 #Execution of Project 
 
 -> index.php file is the homepage.
+
 -> localhost/ExpenseManagementSystem will start the execution 
+
 -> With Execution everything can be proceeded by the selection of buttons available on the screen 
 
 
@@ -37,8 +41,13 @@
 #Features
 
 -> Manage Expenses
+
 -> Add Money to Wallets            
+
 -> Keep Track of Available Payment
+
 -> Listing All the Expenses Between Two Dates
+
 -> Managing is An Art, And You have to be Good at it
+
 -> Get the Amount Spent based on Type of Expense and A time Period

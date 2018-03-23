@@ -19,7 +19,7 @@ body
 <body>
     <table align="center">
     <tr><td colspan='2'  align='center' style="color:black;font-family: 'Times New Roman'"><h2>Expenese Combined with Type</h2></td></tr><br>
-    <form action="exp_b_dates.php" method="POST">
+    <form action="sum_by_type.php" method="POST">
     <br><br>    
         <tr><td>Start Date [mm/dd/yyyy] </td><td>
         <input type="date" name="date1" required></td></tr>

@@ -17,7 +17,7 @@ body
 </style >
 </head>  
 <body>
-<div style="margin:7% auto 0 33%" ><h1 style="color:black;font-family:'Times New Roman'" >EXPENSE MANAGEMENT SYSTEM</h1></div>
+<div style="margin:7% auto 0 28%" ><h1 style="color:black;font-family:'Times New Roman'" >EXPENSE MANAGEMENT SYSTEM</h1></div>
 <div style="margin:0% auto 0 20%" class="btn-group-vertical" style="margin:10px"> 
     <a href='ae.php' width=10px ><button  type="button" class="btn btn-primary" style="margin:50px"; >Add Expense</button></a>
     <a href='available_payment.php' width=10px ><button type="button" class="btn btn-primary" style="margin:50px"; >Available Payment</button></a>

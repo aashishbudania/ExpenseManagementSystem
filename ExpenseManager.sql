@@ -53,7 +53,6 @@ INSERT INTO `exp` (`tp`, `dt`, `des`, `amt`, `m`) VALUES
 ('utilities', '2018-03-21', 'Laundry', 150, 'Cash'),
 ('activities', '2018-03-01', 'trip to hubly', 2000, 'Cash'),
 ('others', '2018-03-02', 'gave to saurabh', 123, 'NetBanking'),
-('others', '2018-03-02', 'gave to saurabh', 123, 'NetBanking'),
 ('loan', '2018-03-04', 'paid loan ', 1234, 'PhonePay'),
 ('others', '2018-03-15', 'juice', 40, 'Paytm'),
 ('others', '2018-03-14', 'bike repairing', 3500, 'Paytm');

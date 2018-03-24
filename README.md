@@ -6,7 +6,7 @@
 
 -> File named "ExpenseManager.sql" is used to create the database and to insert the value in the database
 
--> db.php maintains the connection between database and forms using HTML forms in PHP documents
+-> db.php maintains the connection between database and HTML forms.
 
 -> Make sure that name of .sql file is exactly same as the database's name
 
